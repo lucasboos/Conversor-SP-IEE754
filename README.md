@@ -6,9 +6,13 @@
 </p>    
 <p>
     <span>A precisão simples usa 32bits:</span> 
+    <br>
     ● 1 para o sinal
+    <br>
     ● 8 para o expoente
+    <br>
     ● 23 para a mantissa
+    <br>
     <span>➖ Observação: A bias do expoente é 127</span>
 </p>
 
