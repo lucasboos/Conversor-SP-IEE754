@@ -8,5 +8,5 @@ A precisão simples usa 32bits:<br>
 ✔ 23bits para a mantissa<br>
 Observação: A bias do expoente é 127<br>
 
-Exemplo de layout de ponto flutuante de 32bits:<br>
+Exemplo de layout do ponto flutuante de 32bits:<br>
 <img src="src/img-layout.png">
