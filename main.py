@@ -11,7 +11,7 @@ def numero_to_bin(numero):
     join = float(''.join('0.' + valor[1]))
     resultados = []
 
-    # Faz a multiplicação dos números decimais até o rquisito ser cumprido.
+    # Faz a multiplicação dos números decimais até o requisito ser cumprido.
     while join != 1.0:
         if join > 1.0:
             join -= 1
@@ -52,7 +52,7 @@ def expoente(numero):
     valor = valor.split('.')
     qtd = len(valor[0])
     qtd -= 1
-    # Padrão da operação 127(bios) + expoente.
+    # Padrão da operação 127(bias) + expoente.
     expoente = bin(127 + qtd)[2:]
     # Caso o valor seja menor que 8 bits, usa a função zfill para preencher
     # com zeros a esquerda, até o número informado.
