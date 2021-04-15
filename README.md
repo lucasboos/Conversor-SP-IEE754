@@ -14,3 +14,5 @@
     <br>
     Observação: A bias do expoente é 127
 </p>
+<span>Exemplo de layout de ponto flutuante de 32bits:</span>
+<img src="src/img-layout.png">
