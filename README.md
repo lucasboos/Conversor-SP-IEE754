@@ -2,12 +2,14 @@
 
 <p>
     Conversor de decimal em aritmética de ponto flutuante de precisão simples IEEE-754.
-    <br><br>
+    <br>
+</p>    
+<p>
     <span>A precisão simples usa 32bits:</span> 
-    <ul>1 para o sinal</ul>
-    <ul>8 para o expoente</ul>
-    <ul>23 para a mantissa</ul>
-    <span>Observação: A bias do expoente é 127</span>
+    ● 1 para o sinal
+    ● 8 para o expoente
+    ● 23 para a mantissa
+    <span>➖ Observação: A bias do expoente é 127</span>
 </p>
 
 <p>
