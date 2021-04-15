@@ -6,9 +6,8 @@
 
 <p>
     O layout do ponto flutuante de 32bits é composto da seguinte forma:
-    <br> 
-    <img src="src/img-representando-layout.png">
 </p>
+<img src="src/img-representando-layout.png">
 
 
 
